@@ -2,6 +2,7 @@
 
 Custom explicit and implicit solvers for ordinary differential equations (ODEs) and a simple index-1 differential-algebraic equation (DAE). The script demonstrates practical numerical methods for dynamic systems, with emphasis on stiff problems, constraint stabilization, and reduced-order modeling suitable for real-time control.
 
+![LinearGeneratorROM](LinearGeneratorROM.png)
 **File:** `A3_ode_dae_solver_demo.m`
 
 ## Overview
